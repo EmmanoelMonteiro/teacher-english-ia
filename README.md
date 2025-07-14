@@ -1,5 +1,11 @@
 # Teacher English: Assistente de IA para Gramática e Vocabulário
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/flask-3.1.*+-red?style=for-the-badge&logo=flask&logoColor=white"  alt="Flask Version">
+  <img src="https://img.shields.io/badge/LM_Studio-Compatible-informational?style=for-the-badge&logo=ai" alt="LM Studio Compatible">
+</p>
+
 Um serviço RESTful em Flask que integra um Large Language Model (LLM) local (via LM Studio) para auxiliar no ensino e aprendizado de inglês. Ele oferece avaliação gramatical, tradução de palavras com exemplos contextuais e a verificação do status do serviço LLM.
 
 ---
