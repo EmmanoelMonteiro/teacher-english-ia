@@ -48,7 +48,7 @@ Certifique-se de ter o seguinte instalado:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/teacher_english.git](https://github.com/seu-usuario/teacher_english.git) # Substitua pelo seu usuário/repositório
+    git clone https://github.com/EmmanoelMonteiro/teacher-english-ia.git
     cd teacher_english
     ```
 
